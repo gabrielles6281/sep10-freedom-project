@@ -1,8 +1,6 @@
 .baymax {
  display: flex;
- height: 400px;
- text-align: center;
- justify-content: center;
- align-items: center;
+ height: 200px;
+ flex-direction: column;
 }
 
