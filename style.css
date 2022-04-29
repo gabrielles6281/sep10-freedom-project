@@ -1,6 +1,16 @@
 .baymax {
  display: flex;
- height: 200px;
- flex-direction: column;
+ justify-content: center;
+ padding: 20px 20px 20px 20px;
+ border-radius: 20px;
 }
 
+.boxx {
+ background-color: #FFD166;
+ padding: 20px 20px 20px 20px;
+ border-radius: 20px;
+}
+
+body {
+ background-color: #04395E;
+}
