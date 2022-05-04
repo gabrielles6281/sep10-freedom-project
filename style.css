@@ -5,12 +5,10 @@
  border-radius: 20px;
 }
 
-.boxx {
- background-color: #FFD166;
- padding: 20px 20px 20px 20px;
- border-radius: 20px;
-}
-
 body {
  background-color: #04395E;
+}
+
+card {
+ bcolor: #FFD97D;
 }
