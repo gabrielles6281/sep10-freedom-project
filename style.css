@@ -8,3 +8,12 @@
 body {
  background-color: #04395E;
 }
+
+.aaa-body {
+ padding: 10px 10px 10px 10px;
+}
+
+.nail {
+ text-align: right;
+ color: white;
+}
