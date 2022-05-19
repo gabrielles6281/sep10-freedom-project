@@ -16,4 +16,8 @@ body {
 .nail {
  text-align: right;
  color: white;
+ background-color: #B7D5D4;
+ display: flex;
+ align-content: center;
+ justify-content: space-around;
 }
